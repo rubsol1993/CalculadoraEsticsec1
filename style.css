@@ -1,0 +1,28 @@
+﻿h1 {
+    color: blanchedalmond;
+    background-color: blueviolet;
+}
+
+h2 {
+    color: blue;
+    background-color: darkkhaki;
+}
+
+p {
+    color: brown;
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#parrafo1 {
+    color:black;
+    background-color:sandybrown;
+    font-family:'Century Gothic'
+}
+input {
+    color: black; 
+    background-color:tomato;
+}
+button {
+    color:black;
+    background-color:yellowgreen;
+}
